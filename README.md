@@ -1,4 +1,4 @@
-# Customer Segmentation Web App
+# SpendWise Segmentation Tool
 
 This is a Flask-based web application for customer segmentation using a pre-trained K-Means clustering model. Users can input their annual income and spending score to find out which customer segment they belong to.
 
